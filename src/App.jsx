@@ -39,6 +39,7 @@ function App() {
           <h2>Documentation</h2>
           <p>Your questions, answered</p>
           <h1>Welcome to website by Azamat and Elnaz</h1>
+          <h2>I changed the subtitle</h2>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
